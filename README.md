@@ -1,2 +1,2 @@
 # Clustering
-[link to application](https://clustering.herokuapp.com/)
+[Link to application](https://tarantuviez-6.herokuapp.com/)
