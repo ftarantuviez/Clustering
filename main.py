@@ -189,6 +189,6 @@ And on Twitter, [svpino](https://twitter.com/svpino) can guide you better than a
 st.write("""
 ## App repository
 
-[Github](https://github.com/ftarantuviez/)
+[Github](https://github.com/ftarantuviez/Clustering)
 """)
 # / This app repository
