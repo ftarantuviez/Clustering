@@ -93,6 +93,8 @@ bc_pca = pca.fit_transform(X)
 st.sidebar.write("""
 ---
 ### K-Means
+
+**This may take a while**
 """)
 init_k = st.sidebar.selectbox("Init", ["k-means++", "random"])
 n_init = st.sidebar.slider("Number of inits", 2, 20, value=8)
